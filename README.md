@@ -12,10 +12,12 @@
 
 [https://github.com/minrk/ipython_extensions](https://github.com/minrk(/ipython_extensions)
 
-----> stopped at 09/068
-
 ## Tensorflow
 
 Playground:
 
 [http://playground.tensorflow.org](http://playground.tensorflow.org)
+
+
+
+----> stopped at 10/077
